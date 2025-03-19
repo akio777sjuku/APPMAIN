@@ -1,0 +1,20 @@
+.primary-menu-item {
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.secondary-menu-item {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.tertiary-menu-item {
+    font-size: 12px;
+}
+
+.text-container {
+    width: 150px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

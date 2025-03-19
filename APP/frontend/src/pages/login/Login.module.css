@@ -1,0 +1,7 @@
+.headerTitle {
+    display: flex;
+    align-self: flex-end;
+    margin-right: 40px;
+    color: #222222;
+    text-decoration: none;
+}
